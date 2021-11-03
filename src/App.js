@@ -16,13 +16,13 @@ function App() {
         <Nav/>
         <Router>
           <Switch>
-            <Route path="/DogsHaven" exact>
+            <Route path={process.env.PUBLIC_URL + '/'} exact>
               <Hero/>
             </Route>
-            <Route path="/DogsHaven/about" exact>
+            <Route path={process.env.PUBLIC_URL + '/about'} exact>
               <About/>
             </Route>
-            <Route path="/DogsHaven/contact" exact>
+            <Route path={process.env.PUBLIC_URL + '/contact'} exact>
               <Contact/>
             </Route>
             <Route>
