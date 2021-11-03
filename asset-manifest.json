@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/DogsHaven/static/css/main.5d84421f.chunk.css",
-    "main.js": "/DogsHaven/static/js/main.efbac13a.chunk.js",
-    "main.js.map": "/DogsHaven/static/js/main.efbac13a.chunk.js.map",
+    "main.js": "/DogsHaven/static/js/main.89e99244.chunk.js",
+    "main.js.map": "/DogsHaven/static/js/main.89e99244.chunk.js.map",
     "runtime-main.js": "/DogsHaven/static/js/runtime-main.aed8e4d9.js",
     "runtime-main.js.map": "/DogsHaven/static/js/runtime-main.aed8e4d9.js.map",
-    "static/js/2.3b5a8eea.chunk.js": "/DogsHaven/static/js/2.3b5a8eea.chunk.js",
-    "static/js/2.3b5a8eea.chunk.js.map": "/DogsHaven/static/js/2.3b5a8eea.chunk.js.map",
+    "static/js/2.c993dcdd.chunk.js": "/DogsHaven/static/js/2.c993dcdd.chunk.js",
+    "static/js/2.c993dcdd.chunk.js.map": "/DogsHaven/static/js/2.c993dcdd.chunk.js.map",
     "index.html": "/DogsHaven/index.html",
     "static/css/main.5d84421f.chunk.css.map": "/DogsHaven/static/css/main.5d84421f.chunk.css.map",
-    "static/js/2.3b5a8eea.chunk.js.LICENSE.txt": "/DogsHaven/static/js/2.3b5a8eea.chunk.js.LICENSE.txt",
+    "static/js/2.c993dcdd.chunk.js.LICENSE.txt": "/DogsHaven/static/js/2.c993dcdd.chunk.js.LICENSE.txt",
     "static/media/bg1.85c34102.jpg": "/DogsHaven/static/media/bg1.85c34102.jpg",
     "static/media/bg2.b511bde5.jpg": "/DogsHaven/static/media/bg2.b511bde5.jpg",
     "static/media/bg3.3f0f51d4.jpg": "/DogsHaven/static/media/bg3.3f0f51d4.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.aed8e4d9.js",
-    "static/js/2.3b5a8eea.chunk.js",
+    "static/js/2.c993dcdd.chunk.js",
     "static/css/main.5d84421f.chunk.css",
-    "static/js/main.efbac13a.chunk.js"
+    "static/js/main.89e99244.chunk.js"
   ]
 }
