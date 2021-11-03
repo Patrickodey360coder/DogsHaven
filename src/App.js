@@ -19,10 +19,10 @@ function App() {
             <Route exact path="/">
               <Hero/>
             </Route>
-            <Route exact path="/about">
+            <Route path="/about">
               <About/>
             </Route>
-            <Route exact path="/contact">
+            <Route path="/contact">
               <Contact/>
             </Route>
             <Route>
