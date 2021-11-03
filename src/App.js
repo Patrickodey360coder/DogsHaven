@@ -1,6 +1,6 @@
 import React from "react";
 import Nav from './components/Navbar';
-import {HashRouter as Router, browserHistory, Route, Switch} from 'react-router-dom';
+import {HashRouter as Router, Route, Switch} from 'react-router-dom';
 import Globalstyle from "./Globalstyle";
 import Hero from './components/Hero';
 import About from './pages/About';
@@ -14,7 +14,7 @@ function App() {
     <>
       <Globalstyle>
         <Nav/>
-        <Router history={browserHistory}>
+        <Router>
           <Switch>
             <Route exact path="/">
               <Hero/>
