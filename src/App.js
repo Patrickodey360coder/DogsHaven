@@ -16,13 +16,13 @@ function App() {
         <Nav/>
         <Router>
           <Switch>
-            <Route exact path="/">
+            <Route exact path="/DogsHaven">
               <Hero/>
             </Route>
-            <Route path="/about">
+            <Route path="/DogsHaven/about">
               <About/>
             </Route>
-            <Route path="/contact">
+            <Route path="/DogsHaven/contact">
               <Contact/>
             </Route>
             <Route>
