@@ -5,7 +5,7 @@ function Loading() {
   return (
     <div className="container">
       <Loader className="text-center"
-        type="ThreeDots"
+        type="Circles"
         color="#0d6efd"
         height={200}
         width={200}
