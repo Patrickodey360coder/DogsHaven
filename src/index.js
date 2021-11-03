@@ -4,11 +4,9 @@ import App from './App';
 import {HashRouter as Router} from 'react-router-dom';
 
 ReactDOM.render(
-  <React.StrictMode>
     <Router>
       <App />
-    </Router>
-  </React.StrictMode>,
+    </Router>,
   document.getElementById('root')
 );
 
